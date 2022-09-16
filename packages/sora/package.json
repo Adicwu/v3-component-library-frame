@@ -1,0 +1,19 @@
+{
+  "name": "sora",
+  "version": "1.0.0",
+  "main": "./dist/lib/index.js",
+  "module": "./dist/es/index.js",
+  "files": [
+    "dist"
+  ],
+  "description": "",
+  "scripts": {
+    "build": "vite build"
+  },
+  "author": "",
+  "license": "MIT",
+  "typings": "./dist/es/index.d.ts",
+  "dependencies": {
+    "@sora/utils": "workspace:^1.0.0"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@sora/utils", 
+  "version": "1.0.0",
+  "main": "./dist/lib/index.js",
+  "module": "./dist/es/index.js",
+  "files": [
+    "dist"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "build": "vite build"
+  }
+}
