@@ -7,7 +7,7 @@ export default defineConfig({
     outDir: 'es',
     minify: true,
     rollupOptions: {
-      input: ['src/index.ts'],
+      input: ['index.ts'],
       output: [
         {
           format: 'es',
