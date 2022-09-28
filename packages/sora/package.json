@@ -14,6 +14,6 @@
   "license": "MIT",
   "typings": "./dist/es/index.d.ts",
   "dependencies": {
-    "@sora/utils": "workspace:^1.0.0"
+    "@sora/utils": "workspace:*"
   }
 }
